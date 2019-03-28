@@ -15,3 +15,6 @@ Sikun Yang, and Heinz Koeppl, "Collapsed Variational Inference for Nonparametric
       booktitle={ICDM},
       year={2018},
     }
+    
+Acknowledgements
+This research is funded by the European Union’s Horizon 2020research and innovation programme under grant agreement668858.
