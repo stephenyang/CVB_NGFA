@@ -18,4 +18,4 @@ Sikun Yang, and Heinz Koeppl, "Collapsed Variational Inference for Nonparametric
     
 # Acknowledgements
 
-This research is funded by the European Union’s Horizon 2020research and innovation programme under grant agreement668858.
+This research is funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement 668858.
