@@ -5,7 +5,7 @@ Collapsed variational inference for the nonparametric Bayesian group factor anal
 
 # Matlab code for the following paper:
 
-Sikun Yang, and Heinz Koeppl, "Collapsed Variational Inference for Nonparametric Bayesian Group Factor Analysis," 2018 IEEE International Conference on Data Mining (ICDM'18), Singapore, Nov. 2018
+Sikun Yang, and Heinz Koeppl, "[Collapsed Variational Inference for Nonparametric Bayesian Group Factor Analysis](https://arxiv.org/pdf/1809.03566.pdf)," 2018 IEEE International Conference on Data Mining (ICDM'18), Singapore, Nov. 2018
 
 # If you find the source code helpful, please cite:
 
