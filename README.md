@@ -1,4 +1,4 @@
-# CVB_NGFA
+# Bayesian Nonparametric Group Factor Analysis
 
 Collapsed variational inference for the nonparametric Bayesian group factor analysis
 
